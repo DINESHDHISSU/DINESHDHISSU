@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DINESH KUMAR
-- 👀 I’m interested in Python & C
-- 🌱 I’m currently learning Backend development
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Python & C
